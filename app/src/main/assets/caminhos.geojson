@@ -1,0 +1,5751 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_entrada_1",
+        "nome": "Entrada (Ala Superior)",
+        "destino_codigo": "entrada_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5283851,
+          -23.6445861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s002",
+        "nome": "Entrada Sala S002",
+        "destino_codigo": "s002",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282355,
+          -23.6447503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s004",
+        "nome": "Entrada Sala S004",
+        "destino_codigo": "s004",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528124,
+          -23.6449287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s006",
+        "nome": "Entrada Sala S006",
+        "destino_codigo": "s006",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280029,
+          -23.6451298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_banh_masc_terreo",
+        "nome": "Entrada Banheiro Masculino",
+        "destino_codigo": "banheiro_masc",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278531,
+          -23.6453692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_banh_fem_terreo",
+        "nome": "Entrada Banheiro Feminino",
+        "destino_codigo": "banheiro_fem",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275492,
+          -23.6452276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s005",
+        "nome": "Entrada Sala S005",
+        "destino_codigo": "s005",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527692,
+          -23.6449904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s003",
+        "nome": "Entrada Sala S003",
+        "destino_codigo": "s003",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278229,
+          -23.6447734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_s001",
+        "nome": "Entrada Sala S001",
+        "destino_codigo": "s001",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279371,
+          -23.6445884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_rampa_acesso",
+        "nome": "Acesso à Rampa",
+        "destino_codigo": "rampa_acesso",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528142,
+          -23.6446041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "pt_ent_entrada_2",
+        "nome": "Entrada (Ala Inferior)",
+        "destino_codigo": "entrada_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280143,
+          -23.6443771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_entre_entradas_piso_vermelho",
+        "nome": "Conexão entre entradas - Piso térreo",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280144,
+            -23.6443774
+          ],
+          [
+            -46.5283855,
+            -23.6445863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_rampa_piso_vermelho",
+        "nome": "Conexão da rampa ao corredor - Piso térreo",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281401,
+            -23.6446075
+          ],
+          [
+            -46.5282283,
+            -23.6444978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_corredor_piso_vermelho",
+        "nome": "Corredor principal - Piso térreo",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5283263,
+            -23.6445517
+          ],
+          [
+            -46.5278118,
+            -23.6453431
+          ],
+          [
+            -46.5276102,
+            -23.6452479
+          ],
+          [
+            -46.5280871,
+            -23.6444192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s001_terreo",
+        "nome": "Acesso Sala S001",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279775,
+            -23.64461
+          ],
+          [
+            -46.5279367,
+            -23.6445888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s003_terreo",
+        "nome": "Acesso Sala S003",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278717,
+            -23.6447949
+          ],
+          [
+            -46.5278227,
+            -23.644774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s005_terreo",
+        "nome": "Acesso Sala S005",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277432,
+            -23.6450178
+          ],
+          [
+            -46.527692,
+            -23.6449906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_banh_fem_terreo",
+        "nome": "Acesso Banheiro Feminino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276118,
+            -23.6452468
+          ],
+          [
+            -46.5275496,
+            -23.6452274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_banh_masc_terreo",
+        "nome": "Acesso Banheiro Masculino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527852,
+            -23.645371
+          ],
+          [
+            -46.5278119,
+            -23.6453419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s006_terreo",
+        "nome": "Acesso Sala S006",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280041,
+            -23.6451285
+          ],
+          [
+            -46.5279604,
+            -23.6451138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s004_terreo",
+        "nome": "Acesso Sala S004",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281252,
+            -23.6449282
+          ],
+          [
+            -46.5280912,
+            -23.6449131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "caminho_ramal_s002_terreo",
+        "nome": "Acesso Sala S002",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5282346,
+            -23.6447511
+          ],
+          [
+            -46.5282047,
+            -23.6447388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s103_piso1",
+        "nome": "Entrada Sala S103",
+        "destino_codigo": "s103",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528262,
+          -23.644706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s105_piso1",
+        "nome": "Entrada Sala S105",
+        "destino_codigo": "s105",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528164,
+          -23.644865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s107_piso1",
+        "nome": "Entrada Sala S107",
+        "destino_codigo": "s107",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528075,
+          -23.645011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_banh_masc_piso1",
+        "nome": "Entrada Banheiro Masculino",
+        "destino_codigo": "banheiro_masc_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527952,
+          -23.645209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s109_piso1",
+        "nome": "Entrada Sala S109",
+        "destino_codigo": "s109",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527884,
+          -23.645321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s111_piso1",
+        "nome": "Entrada Sala S111",
+        "destino_codigo": "s111",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527825,
+          -23.645418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s113_piso1",
+        "nome": "Entrada Sala S113",
+        "destino_codigo": "s113",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527727,
+          -23.645409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s114_piso1",
+        "nome": "Entrada Sala S114",
+        "destino_codigo": "s114",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527603,
+          -23.645356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s112_piso1",
+        "nome": "Entrada Sala S112",
+        "destino_codigo": "s112",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527523,
+          -23.645274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s110_piso1",
+        "nome": "Entrada Sala S110",
+        "destino_codigo": "s110",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527588,
+          -23.645162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_banh_fem_piso1",
+        "nome": "Entrada Banheiro Feminino",
+        "destino_codigo": "banheiro_fem_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527662,
+          -23.645039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s108_piso1",
+        "nome": "Entrada Sala S108",
+        "destino_codigo": "s108",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527777,
+          -23.644851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s106_piso1",
+        "nome": "Entrada Sala S106",
+        "destino_codigo": "s106",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527867,
+          -23.644698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s104_piso1",
+        "nome": "Entrada Sala S104",
+        "destino_codigo": "s104",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527958,
+          -23.644552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s102_piso1",
+        "nome": "Entrada Sala S102",
+        "destino_codigo": "s102",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528055,
+          -23.644388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_rampa_piso1",
+        "nome": "Acesso à Rampa",
+        "destino_codigo": "rampas_acesso_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527855,
+          -23.645054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "pt_ent_s101_piso1",
+        "nome": "Entrada Sala S101",
+        "destino_codigo": "s101",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527809,
+            -23.645396
+          ],
+          [
+            -46.527558,
+            -23.645283
+          ],
+          [
+            -46.528117,
+            -23.644396
+          ],
+          [
+            -46.528322,
+            -23.644519
+          ],
+          [
+            -46.527809,
+            -23.645396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_corredor_piso_vermelho_piso1",
+        "nome": "Corredor principal - Piso 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527826,
+            -23.645418
+          ],
+          [
+            -46.527809,
+            -23.645396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s111_piso1",
+        "nome": "Acesso Sala S111",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527728,
+            -23.645409
+          ],
+          [
+            -46.527754,
+            -23.645371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s113_piso1",
+        "nome": "Acesso Sala S113",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527602,
+            -23.645357
+          ],
+          [
+            -46.527635,
+            -23.645317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s114_piso1",
+        "nome": "Acesso Sala S114",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52756,
+            -23.645283
+          ],
+          [
+            -46.527522,
+            -23.645274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s112_piso1",
+        "nome": "Acesso Sala S112",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527586,
+            -23.645163
+          ],
+          [
+            -46.527625,
+            -23.64518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s110_piso1",
+        "nome": "Acesso Sala S110",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527952,
+            -23.64521
+          ],
+          [
+            -46.527925,
+            -23.645197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_banh_masc_piso1",
+        "nome": "Acesso Banheiro Masculino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527927,
+            -23.645198
+          ],
+          [
+            -46.527856,
+            -23.645054
+          ],
+          [
+            -46.527701,
+            -23.645055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_conexao_rampa_piso1",
+        "nome": "Conexão da rampa entre corredores - Piso 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527664,
+            -23.645038
+          ],
+          [
+            -46.527701,
+            -23.645055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_banh_fem_piso1",
+        "nome": "Acesso Banheiro Feminino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528075,
+            -23.64501
+          ],
+          [
+            -46.528042,
+            -23.644997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s107_piso1",
+        "nome": "Acesso Sala S107",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528164,
+            -23.644867
+          ],
+          [
+            -46.528129,
+            -23.644849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s105_piso1",
+        "nome": "Acesso Sala S105",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528262,
+            -23.644707
+          ],
+          [
+            -46.528224,
+            -23.644686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s103_piso1",
+        "nome": "Acesso Sala S103",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52836,
+          -23.644543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s101_piso1",
+        "nome": "Acesso Sala S101",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528361,
+            -23.644543
+          ],
+          [
+            -46.528321,
+            -23.64452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s102_piso1",
+        "nome": "Acesso Sala S102",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528055,
+            -23.644388
+          ],
+          [
+            -46.528114,
+            -23.644402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s104_piso1",
+        "nome": "Acesso Sala S104",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52796,
+            -23.644551
+          ],
+          [
+            -46.528006,
+            -23.644572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s106_piso1",
+        "nome": "Acesso Sala S106",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527867,
+            -23.644697
+          ],
+          [
+            -46.527913,
+            -23.644721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s108_piso1",
+        "nome": "Acesso Sala S108",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527776,
+            -23.644851
+          ],
+          [
+            -46.527817,
+            -23.644875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "caminho_ramal_s109_piso1",
+        "nome": "Acesso Sala S109",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527885,
+            -23.645321
+          ],
+          [
+            -46.527858,
+            -23.645311
+          ],
+          [
+            -46.527859,
+            -23.645312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s201_piso2",
+        "nome": "Entrada Sala S201",
+        "destino_codigo": "s201",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528361,
+          -23.644545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s203_piso2",
+        "nome": "Entrada Sala S203",
+        "destino_codigo": "s203",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52826,
+          -23.644707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s205_piso2",
+        "nome": "Entrada Sala S205",
+        "destino_codigo": "s205",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528162,
+          -23.644869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s207_piso2",
+        "nome": "Entrada Sala S207",
+        "destino_codigo": "s207",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528075,
+          -23.645013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_banh_masc_piso2",
+        "nome": "Entrada Banheiro Masculino",
+        "destino_codigo": "banheiro_masc_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527957,
+          -23.645204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s209_piso2",
+        "nome": "Entrada Sala S209",
+        "destino_codigo": "s209",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527884,
+          -23.64532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s211_piso2",
+        "nome": "Entrada Sala S211",
+        "destino_codigo": "s211",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527825,
+          -23.645423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s213_piso2",
+        "nome": "Entrada Sala S213",
+        "destino_codigo": "s213",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527731,
+          -23.645414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s214_piso2",
+        "nome": "Entrada Sala S214",
+        "destino_codigo": "s214",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527603,
+          -23.645359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s212_piso2",
+        "nome": "Entrada Sala S212",
+        "destino_codigo": "s212",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527513,
+          -23.645284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s210_piso2",
+        "nome": "Entrada Sala S210",
+        "destino_codigo": "s210",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527588,
+          -23.645161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_banh_fem_piso2",
+        "nome": "Entrada Banheiro Feminino",
+        "destino_codigo": "banheiro_fem_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527665,
+          -23.645035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s208_piso2",
+        "nome": "Entrada Sala S208",
+        "destino_codigo": "s208",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527776,
+          -23.644849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s206_piso2",
+        "nome": "Entrada Sala S206",
+        "destino_codigo": "s206",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52787,
+          -23.644695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s204_piso2",
+        "nome": "Entrada Sala S204",
+        "destino_codigo": "s204",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.527956,
+          -23.644552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_s202_piso2",
+        "nome": "Entrada Sala S202",
+        "destino_codigo": "s202",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528057,
+          -23.644384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "pt_ent_rampa_piso2",
+        "nome": "Acesso à Rampa",
+        "destino_codigo": "rampas_acesso_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528149,
+          -23.644612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_corredor_s201_s202_piso2",
+        "nome": "Corredor entre Salas S201 e S202 - Piso 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528361,
+            -23.644545
+          ],
+          [
+            -46.528056,
+            -23.644384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_rampa_piso_vermelho_piso2",
+        "nome": "Conexão da rampa ao corredor - Piso 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528149,
+            -23.644613
+          ],
+          [
+            -46.52824,
+            -23.644481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_corredor_principal_piso2",
+        "nome": "Corredor principal - Piso 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528345,
+            -23.644536
+          ],
+          [
+            -46.527801,
+            -23.645406
+          ],
+          [
+            -46.527557,
+            -23.645296
+          ],
+          [
+            -46.528111,
+            -23.644413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s203_piso2",
+        "nome": "Acesso Sala S203",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528261,
+            -23.644707
+          ],
+          [
+            -46.528241,
+            -23.644701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s205_piso2",
+        "nome": "Acesso Sala S205",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528163,
+            -23.644869
+          ],
+          [
+            -46.528142,
+            -23.644859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s207_piso2",
+        "nome": "Acesso Sala S207",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528075,
+            -23.645013
+          ],
+          [
+            -46.528052,
+            -23.645003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_banh_masc_piso2",
+        "nome": "Acesso Banheiro Masculino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527957,
+            -23.645205
+          ],
+          [
+            -46.527932,
+            -23.645196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s209_piso2",
+        "nome": "Acesso Sala S209",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527885,
+            -23.645321
+          ],
+          [
+            -46.527859,
+            -23.645312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s211_piso2",
+        "nome": "Acesso Sala S211",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527825,
+            -23.645423
+          ],
+          [
+            -46.527801,
+            -23.645406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s213_piso2",
+        "nome": "Acesso Sala S213",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527732,
+            -23.645414
+          ],
+          [
+            -46.527751,
+            -23.645383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s214_piso2",
+        "nome": "Acesso Sala S214",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527603,
+            -23.645359
+          ],
+          [
+            -46.527626,
+            -23.645327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s212_piso2",
+        "nome": "Acesso Sala S212",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527514,
+            -23.645283
+          ],
+          [
+            -46.527558,
+            -23.645294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s210_piso2",
+        "nome": "Acesso Sala S210",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527589,
+            -23.645161
+          ],
+          [
+            -46.527628,
+            -23.645183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_banh_fem_piso2",
+        "nome": "Acesso Banheiro Feminino",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527664,
+            -23.645035
+          ],
+          [
+            -46.527708,
+            -23.645056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s208_piso2",
+        "nome": "Acesso Sala S208",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527775,
+            -23.644849
+          ],
+          [
+            -46.527823,
+            -23.644873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s206_piso2",
+        "nome": "Acesso Sala S206",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52787,
+            -23.644694
+          ],
+          [
+            -46.527921,
+            -23.644718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "caminho_ramal_s204_piso2",
+        "nome": "Acesso Sala S204",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527955,
+            -23.644552
+          ],
+          [
+            -46.528009,
+            -23.644575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l301_1",
+        "nome": "Entrada Sala L301-1",
+        "destino_codigo": "l301_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5283158,
+          -23.644503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l303_1",
+        "nome": "Entrada Sala L303-1",
+        "destino_codigo": "l303_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282134,
+          -23.6444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l305_1",
+        "nome": "Entrada Sala L305-1",
+        "destino_codigo": "l305_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281231,
+          -23.6444031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l302_1",
+        "nome": "Entrada Sala L302-1",
+        "destino_codigo": "l302_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282115,
+          -23.6446869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l304_1",
+        "nome": "Entrada Sala L304-1",
+        "destino_codigo": "l304_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281059,
+          -23.6446332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_l306_1",
+        "nome": "Entrada Sala L306-1",
+        "destino_codigo": "l306_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280132,
+          -23.6445858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_elev_sup_1",
+        "nome": "Entrada Elevadores Superior - Torre 1",
+        "destino_codigo": "elevadores_sup_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282985,
+          -23.6446063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_elev_inf_1",
+        "nome": "Entrada Elevadores Inferior - Torre 1",
+        "destino_codigo": "elevadores_inf_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280238,
+          -23.6444602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_banh_fem_1",
+        "nome": "Entrada Banheiro Feminino - Torre 1",
+        "destino_codigo": "banheiro_fem_3_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279627,
+          -23.6445594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_corredor_esq_1",
+        "nome": "Corredor Esquerdo - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280812,
+            -23.6444039
+          ],
+          [
+            -46.5283154,
+            -23.6445257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_corredor_dir_1",
+        "nome": "Corredor Direito - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279907,
+            -23.6445514
+          ],
+          [
+            -46.528225,
+            -23.6446713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_corredor_sup_1",
+        "nome": "Corredor Superior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5283154,
+            -23.6445257
+          ],
+          [
+            -46.528225,
+            -23.6446713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_corredor_inf_1",
+        "nome": "Corredor Inferior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280812,
+            -23.6444039
+          ],
+          [
+            -46.5279907,
+            -23.6445514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l301_1",
+        "nome": "Acesso Sala L301-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5282945,
+            -23.6445148
+          ],
+          [
+            -46.5283161,
+            -23.6445029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l303_1",
+        "nome": "Acesso Sala L303-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281941,
+            -23.6444626
+          ],
+          [
+            -46.5282136,
+            -23.6444501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l305_1",
+        "nome": "Acesso Sala L305-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281147,
+            -23.6444216
+          ],
+          [
+            -46.5281229,
+            -23.6444031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l302_1",
+        "nome": "Acesso Sala L302-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528225,
+            -23.6446713
+          ],
+          [
+            -46.5282115,
+            -23.6446869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l304_1",
+        "nome": "Acesso Sala L304-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281162,
+            -23.6446156
+          ],
+          [
+            -46.5281061,
+            -23.644633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_l306_1",
+        "nome": "Acesso Sala L306-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280242,
+            -23.6445685
+          ],
+          [
+            -46.5280132,
+            -23.6445851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_sup_1",
+        "nome": "Acesso Elevadores Superior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5282737,
+            -23.6445929
+          ],
+          [
+            -46.528299,
+            -23.6446063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_inf_1",
+        "nome": "Acesso Elevadores Inferior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280394,
+            -23.644472
+          ],
+          [
+            -46.5280239,
+            -23.6444603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_masc_1",
+        "nome": "Acesso Banheiro Masculino - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280816,
+            -23.6444045
+          ],
+          [
+            -46.5280853,
+            -23.644361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "pt_ent_banh_masc_1_3",
+        "nome": "Entrada Banheiro Masculino - Torre 1",
+        "destino_codigo": "banheiro_masc_3_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280854,
+          -23.644361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_fem_1",
+        "nome": "Acesso Banheiro Feminino - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279913,
+            -23.6445513
+          ],
+          [
+            -46.5279631,
+            -23.6445598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l301_2",
+        "nome": "Entrada Sala L301-2",
+        "destino_codigo": "l301_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280604,
+          -23.6448903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l303_2",
+        "nome": "Entrada Sala L303-2",
+        "destino_codigo": "l303_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279611,
+          -23.6448393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l305_2",
+        "nome": "Entrada Sala L305-2",
+        "destino_codigo": "l305_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278701,
+          -23.6447926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l302_2",
+        "nome": "Entrada Sala L302-2",
+        "destino_codigo": "l302_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279817,
+          -23.6450747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l304_2",
+        "nome": "Entrada Sala L304-2",
+        "destino_codigo": "l304_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278679,
+          -23.6450192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_l306_2",
+        "nome": "Entrada Sala L306-2",
+        "destino_codigo": "l306_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277752,
+          -23.644974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_elev_sup_2",
+        "nome": "Entrada Elevadores Superior - Torre 2",
+        "destino_codigo": "elevadores_sup_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280535,
+          -23.6449917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_elev_inf_2",
+        "nome": "Entrada Elevadores Inferior - Torre 2",
+        "destino_codigo": "elevadores_inf_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277864,
+          -23.6448578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_banh_masc_2",
+        "nome": "Entrada Banheiro Masculino - Torre 2",
+        "destino_codigo": "banheiro_masc_3_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278493,
+          -23.6447557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "pt_ent_banh_fem_2",
+        "nome": "Entrada Banheiro Feminino - Torre 2",
+        "destino_codigo": "banheiro_fem_3_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277271,
+          -23.6449543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_corredor_esq_2",
+        "nome": "Corredor Esquerdo - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278407,
+            -23.6447961
+          ],
+          [
+            -46.5280727,
+            -23.6449148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_corredor_dir_2",
+        "nome": "Corredor Direito - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277502,
+            -23.6449434
+          ],
+          [
+            -46.5279859,
+            -23.6450588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_corredor_sup_2",
+        "nome": "Corredor Superior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280727,
+            -23.6449148
+          ],
+          [
+            -46.5279859,
+            -23.6450588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_corredor_inf_2",
+        "nome": "Corredor Inferior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278407,
+            -23.6447961
+          ],
+          [
+            -46.5277502,
+            -23.6449434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l301_2",
+        "nome": "Acesso Sala L301-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528052,
+            -23.6449042
+          ],
+          [
+            -46.5280604,
+            -23.6448903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l303_2",
+        "nome": "Acesso Sala L303-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279526,
+            -23.6448534
+          ],
+          [
+            -46.5279611,
+            -23.6448393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l305_2",
+        "nome": "Acesso Sala L305-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278615,
+            -23.6448067
+          ],
+          [
+            -46.5278701,
+            -23.6447926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l302_2",
+        "nome": "Acesso Sala L302-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52798596,
+            -23.6450587
+          ],
+          [
+            -46.5279817,
+            -23.6450747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l304_2",
+        "nome": "Acesso Sala L304-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278764,
+            -23.6450052
+          ],
+          [
+            -46.5278679,
+            -23.6450192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_l306_2",
+        "nome": "Acesso Sala L306-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277838,
+            -23.6449599
+          ],
+          [
+            -46.5277752,
+            -23.644974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_sup_2",
+        "nome": "Acesso Elevadores Superior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280326,
+            -23.6449813
+          ],
+          [
+            -46.5280535,
+            -23.6449917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_inf_2",
+        "nome": "Acesso Elevadores Inferior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277989,
+            -23.6448641
+          ],
+          [
+            -46.5277864,
+            -23.6448578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_masc_2",
+        "nome": "Acesso Banheiro Masculino - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52784083,
+            -23.64479617
+          ],
+          [
+            -46.5278493,
+            -23.6447557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_fem_2",
+        "nome": "Acesso Banheiro Feminino - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277502,
+            -23.6449434
+          ],
+          [
+            -46.5277271,
+            -23.6449543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l301_3",
+        "nome": "Entrada Sala L301-3",
+        "destino_codigo": "l301_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278377,
+          -23.6452604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l303_3",
+        "nome": "Entrada Sala L303-3",
+        "destino_codigo": "l303_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277357,
+          -23.6452178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l305_3",
+        "nome": "Entrada Sala L305-3",
+        "destino_codigo": "l305_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276421,
+          -23.6451787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l302_3",
+        "nome": "Entrada Sala L302-3",
+        "destino_codigo": "l302_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277552,
+          -23.6454474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l304_3",
+        "nome": "Entrada Sala L304-3",
+        "destino_codigo": "l304_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276414,
+          -23.6453986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_l306_3",
+        "nome": "Entrada Sala L306-3",
+        "destino_codigo": "l306_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275486,
+          -23.6453588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_elev_sup_3",
+        "nome": "Entrada Elevadores Superior - Torre 3",
+        "destino_codigo": "elevadores_sup_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278296,
+          -23.6453607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_elev_inf_3",
+        "nome": "Entrada Elevadores Inferior - Torre 3",
+        "destino_codigo": "elevadores_inf_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275586,
+          -23.6452461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_banh_masc_3",
+        "nome": "Entrada Banheiro Masculino - Torre 3",
+        "destino_codigo": "banheiro_masc_3_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276201,
+          -23.6451448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "pt_ent_banh_fem_3",
+        "nome": "Entrada Banheiro Feminino - Torre 3",
+        "destino_codigo": "banheiro_fem_3_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275005,
+          -23.6453417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_corredor_esq_3",
+        "nome": "Corredor Esquerdo - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276123,
+            -23.6451839
+          ],
+          [
+            -46.5278502,
+            -23.6452835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_corredor_dir_3",
+        "nome": "Corredor Direito - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275234,
+            -23.6453302
+          ],
+          [
+            -46.5277597,
+            -23.6454314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_corredor_sup_3",
+        "nome": "Corredor Superior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278502,
+            -23.6452835
+          ],
+          [
+            -46.5277597,
+            -23.6454314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_corredor_inf_3",
+        "nome": "Corredor Inferior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276123,
+            -23.6451839
+          ],
+          [
+            -46.5275234,
+            -23.6453302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l301_3",
+        "nome": "Acesso Sala L301-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527829,
+            -23.6452746
+          ],
+          [
+            -46.5278377,
+            -23.6452604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l303_3",
+        "nome": "Acesso Sala L303-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527727,
+            -23.6452319
+          ],
+          [
+            -46.5277357,
+            -23.6452178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l305_3",
+        "nome": "Acesso Sala L305-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276336,
+            -23.6451928
+          ],
+          [
+            -46.5276421,
+            -23.6451787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l302_3",
+        "nome": "Acesso Sala L302-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52775987,
+            -23.64543113
+          ],
+          [
+            -46.5277552,
+            -23.6454474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l304_3",
+        "nome": "Acesso Sala L304-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52765,
+            -23.6453844
+          ],
+          [
+            -46.5276414,
+            -23.6453986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_l306_3",
+        "nome": "Acesso Sala L306-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275572,
+            -23.6453447
+          ],
+          [
+            -46.5275486,
+            -23.6453588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_sup_3",
+        "nome": "Acesso Elevadores Superior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278085,
+            -23.6453518
+          ],
+          [
+            -46.5278296,
+            -23.6453607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_elev_inf_3",
+        "nome": "Acesso Elevadores Inferior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275713,
+            -23.6452514
+          ],
+          [
+            -46.5275586,
+            -23.6452461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_masc_3",
+        "nome": "Acesso Banheiro Masculino - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52761531,
+            -23.64518516
+          ],
+          [
+            -46.5276201,
+            -23.6451448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "caminho_ramal_banh_fem_3",
+        "nome": "Acesso Banheiro Feminino - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275234,
+            -23.6453302
+          ],
+          [
+            -46.5275005,
+            -23.6453417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l301_1_4",
+        "nome": "Entrada Sala L401-1",
+        "destino_codigo": "l401_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5283158,
+          -23.644503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l303_1_4",
+        "nome": "Entrada Sala L403-1",
+        "destino_codigo": "l403_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282134,
+          -23.6444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l305_1_4",
+        "nome": "Entrada Sala L405-1",
+        "destino_codigo": "l405_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281231,
+          -23.6444031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l302_1_4",
+        "nome": "Entrada Sala L402-1",
+        "destino_codigo": "l402_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282115,
+          -23.6446869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l304_1_4",
+        "nome": "Entrada Sala L404-1",
+        "destino_codigo": "l404_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281059,
+          -23.6446332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_l306_1_4",
+        "nome": "Entrada Sala L406-1",
+        "destino_codigo": "l406_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280132,
+          -23.6445858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_elev_sup_1_4",
+        "nome": "Entrada Elevadores Superior - Torre 1",
+        "destino_codigo": "elevadores_sup_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5282985,
+          -23.6446063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_elev_inf_1_4",
+        "nome": "Entrada Elevadores Inferior - Torre 1",
+        "destino_codigo": "elevadores_inf_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280238,
+          -23.6444602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_banh_fem_1_4",
+        "nome": "Entrada Banheiro Feminino - Torre 1",
+        "destino_codigo": "banheiro_fem_4_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279627,
+          -23.6445594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_corredor_esq_1_andar4",
+        "nome": "Corredor Esquerdo - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280812,
+            -23.6444039
+          ],
+          [
+            -46.5283154,
+            -23.6445257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_corredor_dir_1_andar4",
+        "nome": "Corredor Direito - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279907,
+            -23.6445514
+          ],
+          [
+            -46.528225,
+            -23.6446713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_corredor_sup_1_andar4",
+        "nome": "Corredor Superior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5283154,
+            -23.6445257
+          ],
+          [
+            -46.528225,
+            -23.6446713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_corredor_inf_1_andar4",
+        "nome": "Corredor Inferior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280812,
+            -23.6444039
+          ],
+          [
+            -46.5279907,
+            -23.6445514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l301_1_andar4",
+        "nome": "Acesso Sala L401-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5282945,
+            -23.6445148
+          ],
+          [
+            -46.5283161,
+            -23.6445029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l303_1_andar4",
+        "nome": "Acesso Sala L403-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281941,
+            -23.6444626
+          ],
+          [
+            -46.5282136,
+            -23.6444501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l305_1_andar4",
+        "nome": "Acesso Sala L405-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281147,
+            -23.6444216
+          ],
+          [
+            -46.5281229,
+            -23.6444031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l302_1_andar4",
+        "nome": "Acesso Sala L402-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528225,
+            -23.6446713
+          ],
+          [
+            -46.5282115,
+            -23.6446869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l304_1_andar4",
+        "nome": "Acesso Sala L404-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5281162,
+            -23.6446156
+          ],
+          [
+            -46.5281061,
+            -23.644633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_l306_1_andar4",
+        "nome": "Acesso Sala L406-1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280242,
+            -23.6445685
+          ],
+          [
+            -46.5280132,
+            -23.6445851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_sup_1_andar4",
+        "nome": "Acesso Elevadores Superior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5282737,
+            -23.6445929
+          ],
+          [
+            -46.528299,
+            -23.6446063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_inf_1_andar4",
+        "nome": "Acesso Elevadores Inferior - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280394,
+            -23.644472
+          ],
+          [
+            -46.5280239,
+            -23.6444603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_masc_1_andar4",
+        "nome": "Acesso Banheiro Masculino - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280816,
+            -23.6444045
+          ],
+          [
+            -46.5280853,
+            -23.644361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_fem_1_andar4",
+        "nome": "Acesso Banheiro Feminino - Torre 1",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279913,
+            -23.6445513
+          ],
+          [
+            -46.5279631,
+            -23.6445598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l301_2_4",
+        "nome": "Entrada Sala L401-2",
+        "destino_codigo": "l401_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280604,
+          -23.6448903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l303_2_4",
+        "nome": "Entrada Sala L403-2",
+        "destino_codigo": "l403_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279611,
+          -23.6448393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l305_2_4",
+        "nome": "Entrada Sala L405-2",
+        "destino_codigo": "l405_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278701,
+          -23.6447926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l302_2_4",
+        "nome": "Entrada Sala L402-2",
+        "destino_codigo": "l402_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279817,
+          -23.6450747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l304_2_4",
+        "nome": "Entrada Sala L404-2",
+        "destino_codigo": "l404_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278679,
+          -23.6450192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_l306_2_4",
+        "nome": "Entrada Sala L406-2",
+        "destino_codigo": "l406_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277752,
+          -23.644974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_elev_sup_2_4",
+        "nome": "Entrada Elevadores Superior - Torre 2",
+        "destino_codigo": "elevadores_sup_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280535,
+          -23.6449917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_elev_inf_2_4",
+        "nome": "Entrada Elevadores Inferior - Torre 2",
+        "destino_codigo": "elevadores_inf_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277864,
+          -23.6448578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_banh_masc_2_4",
+        "nome": "Entrada Banheiro Masculino - Torre 2",
+        "destino_codigo": "banheiro_masc_4_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278493,
+          -23.6447557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "pt_ent_banh_fem_2_4",
+        "nome": "Entrada Banheiro Feminino - Torre 2",
+        "destino_codigo": "banheiro_fem_4_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277271,
+          -23.6449543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_corredor_esq_2_andar4",
+        "nome": "Corredor Esquerdo - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278407,
+            -23.6447961
+          ],
+          [
+            -46.5280727,
+            -23.6449148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_corredor_dir_2_andar4",
+        "nome": "Corredor Direito - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277502,
+            -23.6449434
+          ],
+          [
+            -46.5279859,
+            -23.6450588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_corredor_sup_2_andar4",
+        "nome": "Corredor Superior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280727,
+            -23.6449148
+          ],
+          [
+            -46.5279859,
+            -23.6450588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_corredor_inf_2_andar4",
+        "nome": "Corredor Inferior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278407,
+            -23.6447961
+          ],
+          [
+            -46.5277502,
+            -23.6449434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l301_2_andar4",
+        "nome": "Acesso Sala L401-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.528052,
+            -23.6449042
+          ],
+          [
+            -46.5280604,
+            -23.6448903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l303_2_andar4",
+        "nome": "Acesso Sala L403-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5279526,
+            -23.6448534
+          ],
+          [
+            -46.5279611,
+            -23.6448393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l305_2_andar4",
+        "nome": "Acesso Sala L405-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278615,
+            -23.6448067
+          ],
+          [
+            -46.5278701,
+            -23.6447926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l302_2_andar4",
+        "nome": "Acesso Sala L402-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52798596,
+            -23.6450587
+          ],
+          [
+            -46.5279817,
+            -23.6450747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l304_2_andar4",
+        "nome": "Acesso Sala L404-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278764,
+            -23.6450052
+          ],
+          [
+            -46.5278679,
+            -23.6450192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_l306_2_andar4",
+        "nome": "Acesso Sala L406-2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277838,
+            -23.6449599
+          ],
+          [
+            -46.5277752,
+            -23.644974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_sup_2_andar4",
+        "nome": "Acesso Elevadores Superior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5280326,
+            -23.6449813
+          ],
+          [
+            -46.5280535,
+            -23.6449917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_inf_2_andar4",
+        "nome": "Acesso Elevadores Inferior - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277989,
+            -23.6448641
+          ],
+          [
+            -46.5277864,
+            -23.6448578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_masc_2_andar4",
+        "nome": "Acesso Banheiro Masculino - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52784083,
+            -23.64479617
+          ],
+          [
+            -46.5278493,
+            -23.6447557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_fem_2_andar4",
+        "nome": "Acesso Banheiro Feminino - Torre 2",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5277502,
+            -23.6449434
+          ],
+          [
+            -46.5277271,
+            -23.6449543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l301_3_4",
+        "nome": "Entrada Sala L401-3",
+        "destino_codigo": "l401_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278377,
+          -23.6452604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l303_3_4",
+        "nome": "Entrada Sala L403-3",
+        "destino_codigo": "l403_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277357,
+          -23.6452178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l305_3_4",
+        "nome": "Entrada Sala L405-3",
+        "destino_codigo": "l405_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276421,
+          -23.6451787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l302_3_4",
+        "nome": "Entrada Sala L402-3",
+        "destino_codigo": "l402_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5277552,
+          -23.6454474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l304_3_4",
+        "nome": "Entrada Sala L404-3",
+        "destino_codigo": "l404_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276414,
+          -23.6453986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_l306_3_4",
+        "nome": "Entrada Sala L406-3",
+        "destino_codigo": "l406_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275486,
+          -23.6453588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_elev_sup_3_4",
+        "nome": "Entrada Elevadores Superior - Torre 3",
+        "destino_codigo": "elevadores_sup_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278296,
+          -23.6453607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_elev_inf_3_4",
+        "nome": "Entrada Elevadores Inferior - Torre 3",
+        "destino_codigo": "elevadores_inf_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275586,
+          -23.6452461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_banh_masc_3_4",
+        "nome": "Entrada Banheiro Masculino - Torre 3",
+        "destino_codigo": "banheiro_masc_4_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276201,
+          -23.6451448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "pt_ent_banh_fem_3_4",
+        "nome": "Entrada Banheiro Feminino - Torre 3",
+        "destino_codigo": "banheiro_fem_4_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5275005,
+          -23.6453417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_corredor_esq_3_andar4",
+        "nome": "Corredor Esquerdo - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276123,
+            -23.6451839
+          ],
+          [
+            -46.5278502,
+            -23.6452835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_corredor_dir_3_andar4",
+        "nome": "Corredor Direito - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275234,
+            -23.6453302
+          ],
+          [
+            -46.5277597,
+            -23.6454314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_corredor_sup_3_andar4",
+        "nome": "Corredor Superior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278502,
+            -23.6452835
+          ],
+          [
+            -46.5277597,
+            -23.6454314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_corredor_inf_3_andar4",
+        "nome": "Corredor Inferior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276123,
+            -23.6451839
+          ],
+          [
+            -46.5275234,
+            -23.6453302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l301_3_andar4",
+        "nome": "Acesso Sala L401-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527829,
+            -23.6452746
+          ],
+          [
+            -46.5278377,
+            -23.6452604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l303_3_andar4",
+        "nome": "Acesso Sala L403-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.527727,
+            -23.6452319
+          ],
+          [
+            -46.5277357,
+            -23.6452178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l305_3_andar4",
+        "nome": "Acesso Sala L405-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5276336,
+            -23.6451928
+          ],
+          [
+            -46.5276421,
+            -23.6451787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l302_3_andar4",
+        "nome": "Acesso Sala L402-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52775987,
+            -23.64543113
+          ],
+          [
+            -46.5277552,
+            -23.6454474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l304_3_andar4",
+        "nome": "Acesso Sala L404-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52765,
+            -23.6453844
+          ],
+          [
+            -46.5276414,
+            -23.6453986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_l306_3_andar4",
+        "nome": "Acesso Sala L406-3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275572,
+            -23.6453447
+          ],
+          [
+            -46.5275486,
+            -23.6453588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_sup_3_andar4",
+        "nome": "Acesso Elevadores Superior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5278085,
+            -23.6453518
+          ],
+          [
+            -46.5278296,
+            -23.6453607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_elev_inf_3_andar4",
+        "nome": "Acesso Elevadores Inferior - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275713,
+            -23.6452514
+          ],
+          [
+            -46.5275586,
+            -23.6452461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_masc_3_andar4",
+        "nome": "Acesso Banheiro Masculino - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.52761531,
+            -23.64518516
+          ],
+          [
+            -46.5276201,
+            -23.6451448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "caminho",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "caminho_ramal_banh_fem_3_andar4",
+        "nome": "Acesso Banheiro Feminino - Torre 3",
+        "cor": "#E53935"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5275234,
+            -23.6453302
+          ],
+          [
+            -46.5275005,
+            -23.6453417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "pt_ent_banh_masc_1_4",
+        "nome": "Entrada Banheiro Masculino - Torre 1",
+        "destino_codigo": "banheiro_masc_4_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280854,
+          -23.644361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 0,
+        "codigo": "pt_ent_elev_inf_1_0",
+        "nome": "Entrada Elevadores Inferior - Torre 1",
+        "destino_codigo": "elevadores_inf_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280032,
+          -23.6444673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 1,
+        "codigo": "pt_ent_elev_inf_1_1",
+        "nome": "Entrada Elevadores Inferior - Torre 1",
+        "destino_codigo": "elevadores_inf_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280032,
+          -23.6444673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 2,
+        "codigo": "pt_ent_elev_inf_1_2",
+        "nome": "Entrada Elevadores Inferior - Torre 1",
+        "destino_codigo": "elevadores_inf_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5280032,
+          -23.6444673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 0,
+        "codigo": "pt_ent_elev_sup_1_0",
+        "nome": "Entrada Elevadores Superior - Torre 1",
+        "destino_codigo": "elevadores_sup_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528119,
+          -23.644245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 1,
+        "codigo": "pt_ent_elev_sup_1_1",
+        "nome": "Entrada Elevadores Superior - Torre 1",
+        "destino_codigo": "elevadores_sup_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528119,
+          -23.644245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 2,
+        "codigo": "pt_ent_elev_sup_1_2",
+        "nome": "Entrada Elevadores Superior - Torre 1",
+        "destino_codigo": "elevadores_sup_1",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.528119,
+          -23.644245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 0,
+        "codigo": "pt_ent_elev_inf_2_0",
+        "nome": "Entrada Elevadores Inferior - Torre 2",
+        "destino_codigo": "elevadores_inf_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278268,
+          -23.6447641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 1,
+        "codigo": "pt_ent_elev_inf_2_1",
+        "nome": "Entrada Elevadores Inferior - Torre 2",
+        "destino_codigo": "elevadores_inf_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278268,
+          -23.6447641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 2,
+        "codigo": "pt_ent_elev_inf_2_2",
+        "nome": "Entrada Elevadores Inferior - Torre 2",
+        "destino_codigo": "elevadores_inf_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278268,
+          -23.6447641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 0,
+        "codigo": "pt_ent_elev_sup_2_0",
+        "nome": "Entrada Elevadores Superior - Torre 2",
+        "destino_codigo": "elevadores_sup_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281641,
+          -23.6449276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 1,
+        "codigo": "pt_ent_elev_sup_2_1",
+        "nome": "Entrada Elevadores Superior - Torre 2",
+        "destino_codigo": "elevadores_sup_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281641,
+          -23.6449276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 2,
+        "codigo": "pt_ent_elev_sup_2_2",
+        "nome": "Entrada Elevadores Superior - Torre 2",
+        "destino_codigo": "elevadores_sup_2",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5281641,
+          -23.6449276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 0,
+        "codigo": "pt_ent_elev_inf_3_0",
+        "nome": "Entrada Elevadores Inferior - Torre 3",
+        "destino_codigo": "elevadores_inf_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276108,
+          -23.6450932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 1,
+        "codigo": "pt_ent_elev_inf_3_1",
+        "nome": "Entrada Elevadores Inferior - Torre 3",
+        "destino_codigo": "elevadores_inf_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276108,
+          -23.6450932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 2,
+        "codigo": "pt_ent_elev_inf_3_2",
+        "nome": "Entrada Elevadores Inferior - Torre 3",
+        "destino_codigo": "elevadores_inf_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5276108,
+          -23.6450932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 0,
+        "codigo": "pt_ent_elev_sup_3_0",
+        "nome": "Entrada Elevadores Superior - Torre 3",
+        "destino_codigo": "elevadores_sup_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279657,
+          -23.645277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 1,
+        "codigo": "pt_ent_elev_sup_3_1",
+        "nome": "Entrada Elevadores Superior - Torre 3",
+        "destino_codigo": "elevadores_sup_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279657,
+          -23.645277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "ponto_entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 2,
+        "codigo": "pt_ent_elev_sup_3_2",
+        "nome": "Entrada Elevadores Superior - Torre 3",
+        "destino_codigo": "elevadores_sup_3",
+        "cor": "#FFC107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5279657,
+          -23.645277
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mapa UFABC</string>
+
+    <!-- Campus selector -->
+    <string name="campus_sa">SA</string>
+    <string name="campus_sbc">SBC</string>
+
+    <!-- Header / status -->
+    <string name="campus_title">UFABC &#8211; Campus Santo André</string>
+    <string name="prompt_select_block">Toque em um bloco para explorar os andares</string>
+    <string name="btn_general_view">Geral</string>
+
+    <!-- Floor selector -->
+    <string name="label_floor">Andar</string>
+    <string name="floor_ground">T</string>
+
+    <!-- Zoom / side controls -->
+    <string name="btn_zoom_in">+</string>
+    <string name="btn_zoom_out">&#8722;</string>
+    <string name="content_desc_zoom_in">Aproximar</string>
+    <string name="content_desc_zoom_out">Afastar</string>
+    <string name="content_desc_compass">Bússola</string>
+    <string name="ic_compass">&#10022;</string>
+
+    <!-- Search bar -->
+    <string name="search_hint">Pesquise por Sala ou Laboratório</string>
+    <string name="content_desc_search_icon">Ícone de pesquisa</string>
+    <string name="ic_search">&#8981;</string>
+    <string name="content_desc_accessibility">Acessibilidade</string>
+    <string name="ic_accessibility">&#9855;</string>
+    <string name="route_origin_hint">Origem</string>
+    <string name="route_destination_hint">Destino</string>
+    <string name="content_desc_calculate_route">Calcular rota</string>
+    <string name="ic_route">&#10138;</string>
+
+    <!-- Room details -->
+    <string name="close_symbol">&#x2715;</string>
+</resources>

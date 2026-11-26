@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base palette (legado) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta do app UFABC Map -->
+    <!-- Fundo geral da tela (bege claro do protótipo) -->
+    <color name="bg_screen">#F0E8DF</color>
+
+    <!-- Verde principal: botão SA ativo, andar ativo -->
+    <color name="green_primary">#3D8B3D</color>
+    <!-- Verde mais claro: hover / pressed -->
+    <color name="green_light">#5AAB5A</color>
+
+    <!-- Superfície dos cards e pills (branco levemente quente) -->
+    <color name="surface_card">#FFFFFF</color>
+
+    <!-- Texto primário -->
+    <color name="text_primary">#1A1A1A</color>
+    <!-- Texto secundário / placeholder -->
+    <color name="text_secondary">#757575</color>
+
+    <!-- Pill do campus inativo (cinza claro) -->
+    <color name="campus_pill_inactive_bg">#E0E0E0</color>
+    <color name="campus_pill_inactive_text">#616161</color>
+
+    <!-- Botão de andar inativo -->
+    <color name="floor_btn_inactive_bg">#FFFFFF</color>
+    <color name="floor_btn_inactive_text">#1A1A1A</color>
+
+    <!-- Ícone da barra de pesquisa -->
+    <color name="search_icon">#9E9E9E</color>
+</resources>

@@ -1,0 +1,2659 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "bloco",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "nome": "Bloco A - Piso vermelho",
+        "max_andar": 2,
+        "min_andar": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277715, -23.645623],
+            [-46.5273466, -23.6454402],
+            [-46.5281382, -23.644126],
+            [-46.5285595, -23.6443461],
+            [-46.5277715, -23.645623]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "bloco",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "nome": "Bloco A - Torre 1",
+        "max_andar": 10,
+        "min_andar": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280393, -23.644292],
+            [-46.5284576, -23.644511],
+            [-46.5282836, -23.6447895],
+            [-46.5278653, -23.644577],
+            [-46.5280393, -23.644292]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "bloco",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "nome": "Bloco A - Torre 2",
+        "max_andar": 10,
+        "min_andar": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278003, -23.6446852],
+            [-46.5276236, -23.6449708],
+            [-46.5280475, -23.645174],
+            [-46.5282115, -23.6448999],
+            [-46.5278003, -23.6446852]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "bloco",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "nome": "Bloco A - Torre 3",
+        "max_andar": 10,
+        "min_andar": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275681, -23.645081],
+            [-46.5273983, -23.6453614],
+            [-46.5278189, -23.6455433],
+            [-46.5279943, -23.6452577],
+            [-46.5275681, -23.645081]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "bloco",
+        "bloco_id": "bloco_b",
+        "torre_id": "central",
+        "nome": "Bloco B",
+        "max_andar": 10,
+        "min_andar": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277261, -23.6456996],
+            [-46.5273403, -23.645509],
+            [-46.5271287, -23.6457628],
+            [-46.5275472, -23.6459867],
+            [-46.5277261, -23.6456996]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "campus_limite",
+        "nome": "Campus Santo André - UFABC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276479, -23.6460937],
+            [-46.5268962, -23.6457247],
+            [-46.5280906, -23.6439473],
+            [-46.5289945, -23.6443265],
+            [-46.5276479, -23.6460937]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s001",
+        "nome": "Sala S001",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279166, -23.644494],
+            [-46.5278295, -23.6446385],
+            [-46.5278887, -23.6446673],
+            [-46.5279757, -23.6445233],
+            [-46.5279166, -23.644494]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s003",
+        "nome": "Sala S003",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278057, -23.644678],
+            [-46.5277107, -23.6448357],
+            [-46.52777, -23.6448637],
+            [-46.5278649, -23.6447066],
+            [-46.5278057, -23.644678]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s005",
+        "nome": "Sala S005",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276712, -23.6449014],
+            [-46.527592, -23.6450328],
+            [-46.5276513, -23.64506],
+            [-46.5277304, -23.6449291],
+            [-46.5276712, -23.6449014]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "banheiro_fem",
+        "nome": "Banheiro Feminino",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275366, -23.6451248],
+            [-46.5274416, -23.6452825],
+            [-46.527501, -23.6453087],
+            [-46.5275959, -23.6451516],
+            [-46.5275366, -23.6451248]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s002",
+        "nome": "Sala S002",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5282719, -23.6446871],
+            [-46.528193, -23.6448153],
+            [-46.5282522, -23.6448441],
+            [-46.528331, -23.6447164],
+            [-46.5282719, -23.6446871]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s004",
+        "nome": "Sala S004",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5281615, -23.6448666],
+            [-46.5280826, -23.6449948],
+            [-46.5281419, -23.6450229],
+            [-46.5282207, -23.6448952],
+            [-46.5281615, -23.6448666]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "s006",
+        "nome": "Sala S006",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280432, -23.6450589],
+            [-46.5279486, -23.6452128],
+            [-46.5280079, -23.6452399],
+            [-46.5281025, -23.6450867],
+            [-46.5280432, -23.6450589]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "banheiro_masc",
+        "nome": "Banheiro Masculino",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279013, -23.6452897],
+            [-46.5277987, -23.6454564],
+            [-46.5278582, -23.6454825],
+            [-46.5279606, -23.6453165],
+            [-46.5279013, -23.6452897]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "entrada_1",
+        "nome": "Entrada (Ala Superior)",
+        "cor": "#4CAF50"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5284202, -23.6445269],
+            [-46.5283493, -23.644642],
+            [-46.5283704, -23.6446526],
+            [-46.5284413, -23.6445376],
+            [-46.5284202, -23.6445269]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "entrada",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "entrada_2",
+        "nome": "Entrada (Ala Inferior)",
+        "cor": "#4CAF50"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280195, -23.6443231],
+            [-46.527964, -23.6444151],
+            [-46.5279852, -23.6444257],
+            [-46.5280406, -23.6443339],
+            [-46.5280195, -23.6443231]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "rampa",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 0,
+        "codigo": "rampa_acesso",
+        "nome": "Rampa de acesso",
+        "cor": "#FF9800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280601, -23.6445653],
+            [-46.5280443, -23.6445913],
+            [-46.5282048, -23.6446707],
+            [-46.5282206, -23.6446449],
+            [-46.5280601, -23.6445653]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s102",
+        "nome": "Sala S102",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280274, -23.64431],
+            [-46.527964, -23.6444151],
+            [-46.5280231, -23.6444448],
+            [-46.5280864, -23.6443401],
+            [-46.5280274, -23.64431]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s104",
+        "nome": "Sala S104",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279245, -23.6444808],
+            [-46.5278691, -23.6445728],
+            [-46.5279282, -23.6446019],
+            [-46.5279836, -23.6445102],
+            [-46.5279245, -23.6444808]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s106",
+        "nome": "Sala S106",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278374, -23.6446254],
+            [-46.5277741, -23.6447305],
+            [-46.5278333, -23.6447589],
+            [-46.5278966, -23.6446542],
+            [-46.5278374, -23.6446254]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s108",
+        "nome": "Sala S108",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277503, -23.64477],
+            [-46.5276791, -23.6448882],
+            [-46.5277383, -23.644916],
+            [-46.5278095, -23.6447982],
+            [-46.5277503, -23.64477]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "banheiro_fem_1",
+        "nome": "Banheiro Feminino (1º Andar)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276395, -23.6449539],
+            [-46.5275682, -23.6450722],
+            [-46.5276276, -23.6450993],
+            [-46.5276988, -23.6449815],
+            [-46.5276395, -23.6449539]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s110",
+        "nome": "Sala S110",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275524, -23.6450985],
+            [-46.5275049, -23.6451774],
+            [-46.5275643, -23.645204],
+            [-46.5276118, -23.6451255],
+            [-46.5275524, -23.6450985]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s112",
+        "nome": "Sala S112",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5274891, -23.6452036],
+            [-46.5274258, -23.6453088],
+            [-46.5274852, -23.6453349],
+            [-46.5275485, -23.6452302],
+            [-46.5274891, -23.6452036]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s101",
+        "nome": "Sala S101",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283901, -23.6444948],
+            [-46.528327, -23.6445974],
+            [-46.5283861, -23.644627],
+            [-46.5284492, -23.6445249],
+            [-46.5283901, -23.6444948]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s103",
+        "nome": "Sala S103",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5282876, -23.6446615],
+            [-46.5282324, -23.6447512],
+            [-46.5282916, -23.6447802],
+            [-46.5283467, -23.6446909],
+            [-46.5282876, -23.6446615]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s105",
+        "nome": "Sala S105",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.528193, -23.6448153],
+            [-46.5281299, -23.6449179],
+            [-46.5281891, -23.6449462],
+            [-46.5282522, -23.6448441],
+            [-46.528193, -23.6448153]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s107",
+        "nome": "Sala S107",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280984, -23.6449692],
+            [-46.5280432, -23.6450589],
+            [-46.5281025, -23.6450867],
+            [-46.5281576, -23.6449973],
+            [-46.5280984, -23.6449692]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "banheiro_masc_1",
+        "nome": "Banheiro Masculino (1º Andar)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.527988, -23.6451487],
+            [-46.5279091, -23.6452769],
+            [-46.5279685, -23.6453038],
+            [-46.5280473, -23.6451761],
+            [-46.527988, -23.6451487]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s109",
+        "nome": "Sala S109",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279013, -23.6452897],
+            [-46.5278618, -23.6453538],
+            [-46.5279212, -23.6453804],
+            [-46.5279606, -23.6453165],
+            [-46.5279013, -23.6452897]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s111",
+        "nome": "Sala S111",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278539, -23.6453666],
+            [-46.527783, -23.645482],
+            [-46.5278424, -23.6455081],
+            [-46.5279133, -23.6453932],
+            [-46.5278539, -23.6453666]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s113",
+        "nome": "Sala S113",
+        "cor": "#1976D2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276793, -23.6453874],
+            [-46.5275845, -23.6455426],
+            [-46.527678, -23.6455828],
+            [-46.5277727, -23.6454286],
+            [-46.5276793, -23.6453874]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "s114",
+        "nome": "Sala S114",
+        "cor": "#1976D2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275392, -23.6453256],
+            [-46.5274443, -23.6454822],
+            [-46.5275675, -23.6455353],
+            [-46.5276623, -23.6453799],
+            [-46.5275392, -23.6453256]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "rampa",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 1,
+        "codigo": "rampas_acesso_1",
+        "nome": "Rampas de acesso",
+        "cor": "#FF9800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277824, -23.6449869],
+            [-46.5277666, -23.6450129],
+            [-46.527936, -23.6450916],
+            [-46.5279518, -23.6450658],
+            [-46.5277824, -23.6449869]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s202",
+        "nome": "Sala S202",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280274, -23.64431],
+            [-46.527964, -23.6444151],
+            [-46.5280231, -23.6444448],
+            [-46.5280864, -23.6443401],
+            [-46.5280274, -23.64431]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s204",
+        "nome": "Sala S204",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279245, -23.6444808],
+            [-46.5278691, -23.6445728],
+            [-46.5279282, -23.6446019],
+            [-46.5279836, -23.6445102],
+            [-46.5279245, -23.6444808]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s206",
+        "nome": "Sala S206",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278374, -23.6446254],
+            [-46.5277741, -23.6447305],
+            [-46.5278333, -23.6447589],
+            [-46.5278966, -23.6446542],
+            [-46.5278374, -23.6446254]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s208",
+        "nome": "Sala S208",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277503, -23.64477],
+            [-46.5276791, -23.6448882],
+            [-46.5277383, -23.644916],
+            [-46.5278095, -23.6447982],
+            [-46.5277503, -23.64477]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "banheiro_fem_2",
+        "nome": "Banheiro Feminino (2º Andar)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276395, -23.6449539],
+            [-46.5275682, -23.6450722],
+            [-46.5276276, -23.6450993],
+            [-46.5276988, -23.6449815],
+            [-46.5276395, -23.6449539]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s210",
+        "nome": "Sala S210",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275524, -23.6450985],
+            [-46.5275049, -23.6451774],
+            [-46.5275643, -23.645204],
+            [-46.5276118, -23.6451255],
+            [-46.5275524, -23.6450985]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s212",
+        "nome": "Sala S212",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5274891, -23.6452036],
+            [-46.5274258, -23.6453088],
+            [-46.5274852, -23.6453349],
+            [-46.5275485, -23.6452302],
+            [-46.5274891, -23.6452036]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s201",
+        "nome": "Sala S201",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283901, -23.6444948],
+            [-46.528327, -23.6445974],
+            [-46.5283861, -23.644627],
+            [-46.5284492, -23.6445249],
+            [-46.5283901, -23.6444948]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s203",
+        "nome": "Sala S203",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5282876, -23.6446615],
+            [-46.5282324, -23.6447512],
+            [-46.5282916, -23.6447802],
+            [-46.5283467, -23.6446909],
+            [-46.5282876, -23.6446615]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s205",
+        "nome": "Sala S205",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.528193, -23.6448153],
+            [-46.5281299, -23.6449179],
+            [-46.5281891, -23.6449462],
+            [-46.5282522, -23.6448441],
+            [-46.528193, -23.6448153]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s207",
+        "nome": "Sala S207",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280984, -23.6449692],
+            [-46.5280432, -23.6450589],
+            [-46.5281025, -23.6450867],
+            [-46.5281576, -23.6449973],
+            [-46.5280984, -23.6449692]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "banheiro_masc_2",
+        "nome": "Banheiro Masculino (2º Andar)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.527988, -23.6451487],
+            [-46.5279091, -23.6452769],
+            [-46.5279685, -23.6453038],
+            [-46.5280473, -23.6451761],
+            [-46.527988, -23.6451487]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s209",
+        "nome": "Sala S209",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279013, -23.6452897],
+            [-46.5278618, -23.6453538],
+            [-46.5279212, -23.6453804],
+            [-46.5279606, -23.6453165],
+            [-46.5279013, -23.6452897]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s211",
+        "nome": "Sala S211",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278539, -23.6453666],
+            [-46.527783, -23.645482],
+            [-46.5278424, -23.6455081],
+            [-46.5279133, -23.6453932],
+            [-46.5278539, -23.6453666]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s213",
+        "nome": "Sala S213",
+        "cor": "#1976D2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276793, -23.6453874],
+            [-46.5275845, -23.6455426],
+            [-46.527678, -23.6455828],
+            [-46.5277727, -23.6454286],
+            [-46.5276793, -23.6453874]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "s214",
+        "nome": "Sala S214",
+        "cor": "#1976D2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275392, -23.6453256],
+            [-46.5274443, -23.6454822],
+            [-46.5275675, -23.6455353],
+            [-46.5276623, -23.6453799],
+            [-46.5275392, -23.6453256]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l301_1",
+        "nome": "Sala L301-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283203, -23.6444465],
+            [-46.5283705, -23.6444728],
+            [-46.5283426, -23.6445176],
+            [-46.5282924, -23.6444914],
+            [-46.5283203, -23.6444465]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l303_1",
+        "nome": "Sala L303-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5282199, -23.644394],
+            [-46.5282701, -23.6444203],
+            [-46.5282422, -23.6444653],
+            [-46.528192, -23.6444391],
+            [-46.5282199, -23.644394]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l305_1",
+        "nome": "Sala L305-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5281278, -23.6443459],
+            [-46.528178, -23.6443721],
+            [-46.5281502, -23.6444174],
+            [-46.5281, -23.6443912],
+            [-46.5281278, -23.6443459]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l302_1",
+        "nome": "Sala L302-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5281811, -23.644671],
+            [-46.5282313, -23.6446966],
+            [-46.5282034, -23.6447414],
+            [-46.5281532, -23.6447159],
+            [-46.5281811, -23.644671]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l304_1",
+        "nome": "Sala L304-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280807, -23.6446197],
+            [-46.5281309, -23.6446454],
+            [-46.528103, -23.6446904],
+            [-46.5280528, -23.6446649],
+            [-46.5280807, -23.6446197]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "l306_1",
+        "nome": "Sala L306-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279886, -23.6445727],
+            [-46.5280388, -23.6445983],
+            [-46.528011, -23.6446436],
+            [-46.5279608, -23.6446181],
+            [-46.5279886, -23.6445727]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "banheiro_masc_3_1",
+        "nome": "Banheiro Masculino (3º Andar - Torre 1)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280442, -23.6443021],
+            [-46.5281027, -23.6443327],
+            [-46.5280679, -23.6443895],
+            [-46.5280094, -23.6443591],
+            [-46.5280442, -23.6443021]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "banheiro_fem_3_1",
+        "nome": "Banheiro Feminino (3º Andar - Torre 1)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279224, -23.6445015],
+            [-46.5279809, -23.6445315],
+            [-46.5279461, -23.6445883],
+            [-46.5278876, -23.6445585],
+            [-46.5279224, -23.6445015]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l301_2",
+        "nome": "Sala L301-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280766, -23.6448368],
+            [-46.5280497, -23.6448812],
+            [-46.5280993, -23.6449067],
+            [-46.5281259, -23.6448625],
+            [-46.5280766, -23.6448368]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l303_2",
+        "nome": "Sala L303-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279778, -23.6447853],
+            [-46.5279504, -23.6448302],
+            [-46.528, -23.6448557],
+            [-46.5280272, -23.644811],
+            [-46.5279778, -23.6447853]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l305_2",
+        "nome": "Sala L305-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278873, -23.6447381],
+            [-46.5278595, -23.6447834],
+            [-46.5279091, -23.6448089],
+            [-46.5279367, -23.6447638],
+            [-46.5278873, -23.6447381]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l302_2",
+        "nome": "Sala L302-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279421, -23.645059],
+            [-46.5279152, -23.6451034],
+            [-46.5279661, -23.6451278],
+            [-46.5279927, -23.6450836],
+            [-46.5279421, -23.645059]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l304_2",
+        "nome": "Sala L304-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278409, -23.6450097],
+            [-46.5278135, -23.6450546],
+            [-46.5278644, -23.645079],
+            [-46.5278915, -23.6450343],
+            [-46.5278409, -23.6450097]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "l306_2",
+        "nome": "Sala L306-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277482, -23.6449646],
+            [-46.5277203, -23.6450098],
+            [-46.5277712, -23.6450343],
+            [-46.5277988, -23.6449892],
+            [-46.5277482, -23.6449646]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "banheiro_masc_3_2",
+        "nome": "Banheiro Masculino (3º Andar - Torre 2)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.527805, -23.6446952],
+            [-46.5277697, -23.6447523],
+            [-46.5278277, -23.644782],
+            [-46.5278626, -23.6447252],
+            [-46.527805, -23.6446952]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "banheiro_fem_3_2",
+        "nome": "Banheiro Feminino (3º Andar - Torre 2)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276815, -23.644895],
+            [-46.5276462, -23.644952],
+            [-46.5277054, -23.6449806],
+            [-46.5277403, -23.6449239],
+            [-46.5276815, -23.644895]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l301_3",
+        "nome": "Sala L301-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278544, -23.6452068],
+            [-46.5278267, -23.6452523],
+            [-46.5278777, -23.6452736],
+            [-46.5279056, -23.6452281],
+            [-46.5278544, -23.6452068]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l303_3",
+        "nome": "Sala L303-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277522, -23.6451644],
+            [-46.5277246, -23.6452096],
+            [-46.5277756, -23.6452309],
+            [-46.5278033, -23.6451856],
+            [-46.5277522, -23.6451644]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l305_3",
+        "nome": "Sala L305-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276584, -23.6451255],
+            [-46.5276311, -23.6451706],
+            [-46.5276821, -23.6451919],
+            [-46.5277096, -23.6451467],
+            [-46.5276584, -23.6451255]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l302_3",
+        "nome": "Sala L302-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277156, -23.645434],
+            [-46.5276878, -23.6454794],
+            [-46.5277383, -23.6455012],
+            [-46.5277662, -23.6454557],
+            [-46.5277156, -23.645434]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l304_3",
+        "nome": "Sala L304-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276144, -23.6453906],
+            [-46.5275868, -23.6454358],
+            [-46.5276373, -23.6454576],
+            [-46.527665, -23.6454123],
+            [-46.5276144, -23.6453906]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "l306_3",
+        "nome": "Sala L306-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275216, -23.6453507],
+            [-46.5274943, -23.6453958],
+            [-46.5275447, -23.6454176],
+            [-46.5275722, -23.6453725],
+            [-46.5275216, -23.6453507]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "banheiro_masc_3_3",
+        "nome": "Banheiro Masculino (3º Andar - Torre 3)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275732, -23.6450901],
+            [-46.5275392, -23.6451462],
+            [-46.5275987, -23.6451711],
+            [-46.5276329, -23.6451149],
+            [-46.5275732, -23.6450901]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "banheiro_fem_3_3",
+        "nome": "Banheiro Feminino (3º Andar - Torre 3)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5274543, -23.6452865],
+            [-46.5274203, -23.6453426],
+            [-46.5274793, -23.645368],
+            [-46.5275134, -23.6453118],
+            [-46.5274543, -23.6452865]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "elevadores_sup_1",
+        "nome": "Elevadores (3º Andar - Torre 1 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283301, -23.6445555],
+            [-46.528397, -23.6445902],
+            [-46.5283361, -23.6446877],
+            [-46.5282692, -23.6446534],
+            [-46.5283301, -23.6445555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 3,
+        "codigo": "elevadores_inf_1",
+        "nome": "Elevadores (3º Andar - Torre 1 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279955, -23.6443818],
+            [-46.528054, -23.6444122],
+            [-46.5279931, -23.6445116],
+            [-46.5279346, -23.6444815],
+            [-46.5279955, -23.6443818]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "elevadores_sup_2",
+        "nome": "Elevadores (3º Andar - Torre 2 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280876, -23.6449441],
+            [-46.5280294, -23.6450408],
+            [-46.5280965, -23.6450739],
+            [-46.528154, -23.6449779],
+            [-46.5280876, -23.6449441]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 3,
+        "codigo": "elevadores_inf_2",
+        "nome": "Elevadores (3º Andar - Torre 2 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277556, -23.6447751],
+            [-46.5276938, -23.644875],
+            [-46.5277526, -23.644904],
+            [-46.5278137, -23.6448047],
+            [-46.5277556, -23.6447751]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "elevadores_sup_3",
+        "nome": "Elevadores (3º Andar - Torre 3 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278653, -23.6453113],
+            [-46.5278042, -23.6454109],
+            [-46.5278718, -23.6454397],
+            [-46.5279332, -23.6453398],
+            [-46.5278653, -23.6453113]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 3,
+        "codigo": "elevadores_inf_3",
+        "nome": "Elevadores (3º Andar - Torre 3 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275257, -23.6451687],
+            [-46.5274662, -23.6452669],
+            [-46.5275253, -23.6452921],
+            [-46.5275851, -23.6451936],
+            [-46.5275257, -23.6451687]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l401_1",
+        "nome": "Sala L401-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283203, -23.6444465],
+            [-46.5283705, -23.6444728],
+            [-46.5283426, -23.6445176],
+            [-46.5282924, -23.6444914],
+            [-46.5283203, -23.6444465]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l403_1",
+        "nome": "Sala L403-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5282199, -23.644394],
+            [-46.5282701, -23.6444203],
+            [-46.5282422, -23.6444653],
+            [-46.528192, -23.6444391],
+            [-46.5282199, -23.644394]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l405_1",
+        "nome": "Sala L405-1",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5281278, -23.6443459],
+            [-46.528178, -23.6443721],
+            [-46.5281502, -23.6444174],
+            [-46.5281, -23.6443912],
+            [-46.5281278, -23.6443459]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l402_1",
+        "nome": "Sala L402-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5281811, -23.644671],
+            [-46.5282313, -23.6446966],
+            [-46.5282034, -23.6447414],
+            [-46.5281532, -23.6447159],
+            [-46.5281811, -23.644671]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l404_1",
+        "nome": "Sala L404-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280807, -23.6446197],
+            [-46.5281309, -23.6446454],
+            [-46.528103, -23.6446904],
+            [-46.5280528, -23.6446649],
+            [-46.5280807, -23.6446197]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "l406_1",
+        "nome": "Sala L406-1",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279886, -23.6445727],
+            [-46.5280388, -23.6445983],
+            [-46.528011, -23.6446436],
+            [-46.5279608, -23.6446181],
+            [-46.5279886, -23.6445727]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "banheiro_masc_4_1",
+        "nome": "Banheiro Masculino (4º Andar - Torre 1)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280442, -23.6443021],
+            [-46.5281027, -23.6443327],
+            [-46.5280679, -23.6443895],
+            [-46.5280094, -23.6443591],
+            [-46.5280442, -23.6443021]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "banheiro_fem_4_1",
+        "nome": "Banheiro Feminino (4º Andar - Torre 1)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279224, -23.6445015],
+            [-46.5279809, -23.6445315],
+            [-46.5279461, -23.6445883],
+            [-46.5278876, -23.6445585],
+            [-46.5279224, -23.6445015]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l401_2",
+        "nome": "Sala L401-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280766, -23.6448368],
+            [-46.5280497, -23.6448812],
+            [-46.5280993, -23.6449067],
+            [-46.5281259, -23.6448625],
+            [-46.5280766, -23.6448368]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l403_2",
+        "nome": "Sala L403-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279778, -23.6447853],
+            [-46.5279504, -23.6448302],
+            [-46.528, -23.6448557],
+            [-46.5280272, -23.644811],
+            [-46.5279778, -23.6447853]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l405_2",
+        "nome": "Sala L405-2",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278873, -23.6447381],
+            [-46.5278595, -23.6447834],
+            [-46.5279091, -23.6448089],
+            [-46.5279367, -23.6447638],
+            [-46.5278873, -23.6447381]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l402_2",
+        "nome": "Sala L402-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279421, -23.645059],
+            [-46.5279152, -23.6451034],
+            [-46.5279661, -23.6451278],
+            [-46.5279927, -23.6450836],
+            [-46.5279421, -23.645059]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l404_2",
+        "nome": "Sala L404-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278409, -23.6450097],
+            [-46.5278135, -23.6450546],
+            [-46.5278644, -23.645079],
+            [-46.5278915, -23.6450343],
+            [-46.5278409, -23.6450097]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "l406_2",
+        "nome": "Sala L406-2",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277482, -23.6449646],
+            [-46.5277203, -23.6450098],
+            [-46.5277712, -23.6450343],
+            [-46.5277988, -23.6449892],
+            [-46.5277482, -23.6449646]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "banheiro_masc_4_2",
+        "nome": "Banheiro Masculino (4º Andar - Torre 2)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.527805, -23.6446952],
+            [-46.5277697, -23.6447523],
+            [-46.5278277, -23.644782],
+            [-46.5278626, -23.6447252],
+            [-46.527805, -23.6446952]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "banheiro_fem_4_2",
+        "nome": "Banheiro Feminino (4º Andar - Torre 2)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276815, -23.644895],
+            [-46.5276462, -23.644952],
+            [-46.5277054, -23.6449806],
+            [-46.5277403, -23.6449239],
+            [-46.5276815, -23.644895]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l401_3",
+        "nome": "Sala L401-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278544, -23.6452068],
+            [-46.5278267, -23.6452523],
+            [-46.5278777, -23.6452736],
+            [-46.5279056, -23.6452281],
+            [-46.5278544, -23.6452068]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l403_3",
+        "nome": "Sala L403-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277522, -23.6451644],
+            [-46.5277246, -23.6452096],
+            [-46.5277756, -23.6452309],
+            [-46.5278033, -23.6451856],
+            [-46.5277522, -23.6451644]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l405_3",
+        "nome": "Sala L405-3",
+        "cor": "#2196F3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276584, -23.6451255],
+            [-46.5276311, -23.6451706],
+            [-46.5276821, -23.6451919],
+            [-46.5277096, -23.6451467],
+            [-46.5276584, -23.6451255]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l402_3",
+        "nome": "Sala L402-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277156, -23.645434],
+            [-46.5276878, -23.6454794],
+            [-46.5277383, -23.6455012],
+            [-46.5277662, -23.6454557],
+            [-46.5277156, -23.645434]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l404_3",
+        "nome": "Sala L404-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5276144, -23.6453906],
+            [-46.5275868, -23.6454358],
+            [-46.5276373, -23.6454576],
+            [-46.527665, -23.6454123],
+            [-46.5276144, -23.6453906]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "l406_3",
+        "nome": "Sala L406-3",
+        "cor": "#64B5F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275216, -23.6453507],
+            [-46.5274943, -23.6453958],
+            [-46.5275447, -23.6454176],
+            [-46.5275722, -23.6453725],
+            [-46.5275216, -23.6453507]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "banheiro_masc_4_3",
+        "nome": "Banheiro Masculino (4º Andar - Torre 3)",
+        "cor": "#3F51B5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275732, -23.6450901],
+            [-46.5275392, -23.6451462],
+            [-46.5275987, -23.6451711],
+            [-46.5276329, -23.6451149],
+            [-46.5275732, -23.6450901]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "sala",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "banheiro_fem_4_3",
+        "nome": "Banheiro Feminino (4º Andar - Torre 3)",
+        "cor": "#E91E63"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5274543, -23.6452865],
+            [-46.5274203, -23.6453426],
+            [-46.5274793, -23.645368],
+            [-46.5275134, -23.6453118],
+            [-46.5274543, -23.6452865]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "elevadores_sup_1",
+        "nome": "Elevadores (4º Andar - Torre 1 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5283301, -23.6445555],
+            [-46.528397, -23.6445902],
+            [-46.5283361, -23.6446877],
+            [-46.5282692, -23.6446534],
+            [-46.5283301, -23.6445555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_1",
+        "andar": 4,
+        "codigo": "elevadores_inf_1",
+        "nome": "Elevadores (4º Andar - Torre 1 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5279955, -23.6443818],
+            [-46.528054, -23.6444122],
+            [-46.5279931, -23.6445116],
+            [-46.5279346, -23.6444815],
+            [-46.5279955, -23.6443818]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "elevadores_sup_2",
+        "nome": "Elevadores (4º Andar - Torre 2 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280876, -23.6449441],
+            [-46.5280294, -23.6450408],
+            [-46.5280965, -23.6450739],
+            [-46.528154, -23.6449779],
+            [-46.5280876, -23.6449441]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_2",
+        "andar": 4,
+        "codigo": "elevadores_inf_2",
+        "nome": "Elevadores (4º Andar - Torre 2 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5277556, -23.6447751],
+            [-46.5276938, -23.644875],
+            [-46.5277526, -23.644904],
+            [-46.5278137, -23.6448047],
+            [-46.5277556, -23.6447751]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "elevadores_sup_3",
+        "nome": "Elevadores (4º Andar - Torre 3 - Superior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5278653, -23.6453113],
+            [-46.5278042, -23.6454109],
+            [-46.5278718, -23.6454397],
+            [-46.5279332, -23.6453398],
+            [-46.5278653, -23.6453113]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "elevador",
+        "bloco_id": "bloco_a",
+        "torre_id": "torre_3",
+        "andar": 4,
+        "codigo": "elevadores_inf_3",
+        "nome": "Elevadores (4º Andar - Torre 3 - Inferior)",
+        "cor": "#9C27B0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5275257, -23.6451687],
+            [-46.5274662, -23.6452669],
+            [-46.5275253, -23.6452921],
+            [-46.5275851, -23.6451936],
+            [-46.5275257, -23.6451687]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "rampa",
+        "bloco_id": "bloco_a",
+        "torre_id": "piso_vermelho",
+        "andar": 2,
+        "codigo": "rampas_acesso_2",
+        "nome": "Rampas de acesso",
+        "cor": "#FF9800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.5280601, -23.6445653],
+            [-46.5280443, -23.6445913],
+            [-46.5282048, -23.6446707],
+            [-46.5282206, -23.6446449],
+            [-46.5280601, -23.6445653]
+          ]
+        ]
+      }
+    }
+  ]
+}
